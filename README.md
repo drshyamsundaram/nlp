@@ -3,7 +3,8 @@ What is NLP ? Natural Language Processing(NLP), a field of AI, aims to understan
 
 The fundamental aim of NLP libraries is to simplify text preprocessing. A good NLP library should be able to correctly convert free text sentences into structured features (for example, cost per hour) that can easily be fed into ML or DL pipelines. Also, an NLP library should have a simple-to-learn API, and it must be able to implement the latest and greatest algorithms and models efficiently.
 
-# Top NLP Libraries Libraries Reference: https://www.upgrad.com/blog/python-nlp-libraries-and-applications/
+# Top NLP Libraries 
+Libraries Reference: https://www.upgrad.com/blog/python-nlp-libraries-and-applications/
 
 Natural Language Toolkit (NLTK)
 Gensim
@@ -17,23 +18,27 @@ PyNLPl
 
 NLTK is one of the leading platforms for building Python programs that can work with human language data. It presents a practical introduction to programming for language processing. NLTK comes with a host of text processing libraries for sentence detection, tokenization, lemmatization, stemming, parsing, chunking, and POS tagging.
 
-# 2. Gensim Gensim is a Python library designed specifically for “topic modeling, document indexing, and similarity retrieval with large corpora.” All algorithms in Gensim are memory-independent, w.r.t., the corpus size, and hence, it can process input larger than RAM. With intuitive interfaces, Gensim allows for efficient multicore implementations of popular algorithms, including online Latent Semantic Analysis (LSA/LSI/SVD), Latent Dirichlet Allocation (LDA), Random Projections (RP), Hierarchical Dirichlet Process (HDP) or word2vec deep learning.
+# 2. Gensim 
+Gensim is a Python library designed specifically for “topic modeling, document indexing, and similarity retrieval with large corpora.” All algorithms in Gensim are memory-independent, w.r.t., the corpus size, and hence, it can process input larger than RAM. With intuitive interfaces, Gensim allows for efficient multicore implementations of popular algorithms, including online Latent Semantic Analysis (LSA/LSI/SVD), Latent Dirichlet Allocation (LDA), Random Projections (RP), Hierarchical Dirichlet Process (HDP) or word2vec deep learning.
 
 Gensim features extensive documentation and Jupyter Notebook tutorials. It largely depends on NumPy and SciPy for scientific computing. Thus, you must install these two Python packages before installing Gensim.
 
-# 3. spaCy spaCy is an open-source NLP library in Python. It is designed explicitly for production usage – it lets you develop applications that process and understand huge volumes of text.
+# 3. spaCy 
+spaCy is an open-source NLP library in Python. It is designed explicitly for production usage – it lets you develop applications that process and understand huge volumes of text.
 
 spaCy can preprocess text for Deep Learning. It can be be used to build natural language understanding systems or information extraction systems. spaCy is equipped with pre-trained statistical models and word vectors. It can support tokenization for over 49 languages. spaCy boasts of state-of-the-art speed, parsing, named entity recognition, convolutional neural network models for tagging, and deep learning integration.
 
-# Why is it hard? Reference: https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
+# Why is NLP hard? 
+Reference: https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
 
 NLP is hard because natural languages evolved without a standard rule/logic. They were developed in response to the evolution of the human brain: in its ability to understand signs, voice, and memory. With NLP, we are now trying to “discover rules” for something (language) that evolved without rules.
 
-# Understanding Textual Data Reference: https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
+# Understanding Textual Data 
+Reference: https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
 
 Elements of Text Let us now understand various elements of textual data and see how we can extract these using the NLTK library. Now we shall discuss the following elements of the text:
 
-Hierarchy of Text
+## Hierarchy of Text
 
 Tokens
 Vocabulary
