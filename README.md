@@ -1,3 +1,34 @@
+<h1 align="center">Hi 👋, I'm Dr Shyam Sundaram</h1>
+<h3 align="center">Passionate about Data Science, Graph Models, Community Data Models</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drshyamsundaram&label=Profile%20views&color=0e75b6&style=flat" alt="drshyamsundaram" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drshyamsundaram" alt="drshyamsundaram" /></a> </p>
+
+- 🔭 I’m currently working on [NLP](https://github.com/drshyamsundaram/nlp)
+
+- 👨‍💻 All of my projects are available at [https://github.com/drshyamsundaram](https://github.com/drshyamsundaram)
+
+- 📝 I regularly write articles on [linkedin.com/in/bioenable](linkedin.com/in/bioenable)
+
+- 📫 How to reach me **drshyamsundaramindia@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/bioenable](linkedin.com/in/bioenable)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bioenable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bioenable" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drshyamsundaram&show_icons=true&locale=en&layout=compact" alt="drshyamsundaram" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drshyamsundaram&show_icons=true&locale=en" alt="drshyamsundaram" /></p>
+
+
+
 # NLP related resources
 What is NLP ? Natural Language Processing(NLP), a field of AI, aims to understand the semantics and connotations of natural human languages. It focuses on extracting meaningful information from text and train data models based on the acquired insights. The primary NLP functions include text mining, text classification, text analysis, sentiment analysis, word sequencing, speech recognition & generation, machine translation, and dialog systems, to name a few.
 
