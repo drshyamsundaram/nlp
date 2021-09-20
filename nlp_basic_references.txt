@@ -1,0 +1,23 @@
+NLTK: https://www.nltk.org/index.html 
+NLTK Github: https://github.com/nltk 
+Gensim : https://github.com/RaRe-Technologies/gensim 
+spaCY : https://github.com/explosion/spaCy 
+Natural Language Processing S21, CMU, http://demo.clab.cs.cmu.edu/NLP/ 
+Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit | Steven Bird, Ewan Klein, and Edward Loper
+Awesome NLP: https://github.com/keon/awesome-nlp 
+NLP Resources : https://github.com/datascienceid/nlp-resources 
+
+Articles
+Getting-started-with-natural-language-processing-using-python : https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
+Python-nlp-libraries-and-applications : https://www.upgrad.com/blog/python-nlp-libraries-and-applications/
+Natural-language-processing-banking-current-applications : https://emerj.com/ai-sector-overviews/natural-language-processing-banking-current-applications/
+Capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms : https://venturebeat.com/2021/07/14/capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms/
+Parts of speech | https://editor.analyticsvidhya.com/uploads/52675tag.PNG
+Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK : https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+Leveraging-on-nlp-to-gain-insights-in-social-media-news-broadcasting-: https://towardsdatascience.com/leveraging-on-nlp-to-gain-insights-in-social-media-news-broadcasting-ca89752ef638
+Kaggle Amazon Reviews : https://www.kaggle.com/bittlingmayer/amazonreviews
+INTRODUCTION TO SPACY 3 | A Free Course for Beginners by Dr. W.J.B. Mattingly http://spacy.pythonhumanities.com/intro.html
+Text-classification : https://github.com/javedsha/text-classification | Dataset : http://qwone.com/~jason/20Newsgroups/
+
+Videos
+Natural Language Processing S21 : http://demo.clab.cs.cmu.edu/NLP/
