@@ -27,7 +27,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drshyamsundaram&show_icons=true&locale=en" alt="drshyamsundaram" /></p>
 
-
+# Quick definition to NLP
+Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
+[https://en.wikipedia.org/wiki/Natural_language_processing](Reference)
 
 # NLP related resources
 What is NLP ? Natural Language Processing(NLP), a field of AI, aims to understand the semantics and connotations of natural human languages. It focuses on extracting meaningful information from text and train data models based on the acquired insights. The primary NLP functions include text mining, text classification, text analysis, sentiment analysis, word sequencing, speech recognition & generation, machine translation, and dialog systems, to name a few.
