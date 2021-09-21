@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drshyamsundaram" alt="drshyamsundaram" /></a> </p>
 
-- 🔭 I’m currently working on [NLP](https://github.com/drshyamsundaram/nlp)
+- 🔭 I’m currently working on [Data Science, Graph Models, Community Data Models](https://github.com/drshyamsundaram/nlp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/drshyamsundaram](https://github.com/drshyamsundaram)
 
