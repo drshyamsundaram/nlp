@@ -8,6 +8,9 @@ Awesome NLP: https://github.com/keon/awesome-nlp
 NLP Resources : https://github.com/datascienceid/nlp-resources 
 
 Articles
+Learning POS Tagging & Chunking in NLP : https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb 
+Sentiment Analysis: Concept, Analysis and Applications : https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+Machine Learning Translation : https://machinelearningmastery.com/introduction-neural-machine-translation/#:~:text=Machine%20translation%20is%20the%20task,of%20symbols%20in%20another%20language.
 Getting-started-with-natural-language-processing-using-python : https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
 Python-nlp-libraries-and-applications : https://www.upgrad.com/blog/python-nlp-libraries-and-applications/
 Natural-language-processing-banking-current-applications : https://emerj.com/ai-sector-overviews/natural-language-processing-banking-current-applications/
@@ -18,6 +21,7 @@ Leveraging-on-nlp-to-gain-insights-in-social-media-news-broadcasting-: https://t
 Kaggle Amazon Reviews : https://www.kaggle.com/bittlingmayer/amazonreviews
 INTRODUCTION TO SPACY 3 | A Free Course for Beginners by Dr. W.J.B. Mattingly http://spacy.pythonhumanities.com/intro.html
 Text-classification : https://github.com/javedsha/text-classification | Dataset : http://qwone.com/~jason/20Newsgroups/
+
 
 Videos
 Natural Language Processing S21 : http://demo.clab.cs.cmu.edu/NLP/
