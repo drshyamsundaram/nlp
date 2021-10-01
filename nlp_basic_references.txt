@@ -22,6 +22,13 @@ Kaggle Amazon Reviews : https://www.kaggle.com/bittlingmayer/amazonreviews
 INTRODUCTION TO SPACY 3 | A Free Course for Beginners by Dr. W.J.B. Mattingly http://spacy.pythonhumanities.com/intro.html
 Text-classification : https://github.com/javedsha/text-classification | Dataset : http://qwone.com/~jason/20Newsgroups/
 
+Indian Languages Related
+https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/
+
+Natural Language Toolkit for Indic Languages (iNLTK) : 
+https://github.com/goru001/inltk 
+https://inltk.readthedocs.io/en/latest/ 
+
 
 Videos
 Natural Language Processing S21 : http://demo.clab.cs.cmu.edu/NLP/
