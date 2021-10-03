@@ -8,6 +8,18 @@ Awesome NLP: https://github.com/keon/awesome-nlp
 NLP Resources : https://github.com/datascienceid/nlp-resources 
 
 Articles
+Unstructured Data
+What is unstructured data ? https://searchbusinessanalytics.techtarget.com/definition/unstructured-data
+Why is unstructured data important ? https://www.oriresults.com/articles/blog-posts/whats-hiding-in-your-unstructured-data/ 
+What do NLP scientists do ? https://towardsdatascience.com/whatnlpscientistsdo-905aa987c5c0
+
+Sentiment Analysis
+Amazon Product review Sentiment Analysis using BERT | https://www.analyticsvidhya.com/blog/2021/06/amazon-product-review-sentiment-analysis-using-bert/
+A Complete Sentiment Analysis Algorithm in Python with Amazon Product Review Data: Step by Step
+An NLP Project Using Python’s Scikit_learn library | https://towardsdatascience.com/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b
+Text Analysis on the reviews data of Indian products in Amazon | https://medium.com/analytics-vidhya/text-analysis-on-the-reviews-data-of-indian-products-in-amazon-a9c21709c4d8
+
+Deep NLP Articles
 Learning POS Tagging & Chunking in NLP : https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb 
 Sentiment Analysis: Concept, Analysis and Applications : https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
 Machine Learning Translation : https://machinelearningmastery.com/introduction-neural-machine-translation/#:~:text=Machine%20translation%20is%20the%20task,of%20symbols%20in%20another%20language.
@@ -29,6 +41,9 @@ Natural Language Toolkit for Indic Languages (iNLTK) :
 https://github.com/goru001/inltk 
 https://inltk.readthedocs.io/en/latest/ 
 
+
+Case Studies
+https://store.hbr.org/product/text-analytics-turning-words-into-data/UV7921 
 
 Videos
 Natural Language Processing S21 : http://demo.clab.cs.cmu.edu/NLP/
