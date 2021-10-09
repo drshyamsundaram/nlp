@@ -2,12 +2,18 @@ NLTK: https://www.nltk.org/index.html
 NLTK Github: https://github.com/nltk 
 Gensim : https://github.com/RaRe-Technologies/gensim 
 spaCY : https://github.com/explosion/spaCy 
+TextBLOB : https://textblob.readthedocs.io/en/dev/
+
+Good Resources
 Natural Language Processing S21, CMU, http://demo.clab.cs.cmu.edu/NLP/ 
 Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit | Steven Bird, Ewan Klein, and Edward Loper
 Awesome NLP: https://github.com/keon/awesome-nlp 
 NLP Resources : https://github.com/datascienceid/nlp-resources 
 
 Articles
+NLP Overviews
+NLP Tutorial (provides basic and advanced concepts of the NLP tutorial) | https://www.javatpoint.com/nlp
+
 Unstructured Data
 What is unstructured data ? https://searchbusinessanalytics.techtarget.com/definition/unstructured-data
 Why is unstructured data important ? https://www.oriresults.com/articles/blog-posts/whats-hiding-in-your-unstructured-data/ 
