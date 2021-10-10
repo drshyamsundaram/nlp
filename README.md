@@ -62,6 +62,10 @@ spaCy is an open-source NLP library in Python. It is designed explicitly for pro
 
 spaCy can preprocess text for Deep Learning. It can be be used to build natural language understanding systems or information extraction systems. spaCy is equipped with pre-trained statistical models and word vectors. It can support tokenization for over 49 languages. spaCy boasts of state-of-the-art speed, parsing, named entity recognition, convolutional neural network models for tagging, and deep learning integration.
 
+# 4. TextBLOB
+TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+[Reference](https://textblob.readthedocs.io/en/dev/)
+
 # Why is NLP hard? 
 [Reference](https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/)
 
