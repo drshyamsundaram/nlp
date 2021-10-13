@@ -66,6 +66,11 @@ spaCy can preprocess text for Deep Learning. It can be be used to build natural 
 TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 [Reference](https://textblob.readthedocs.io/en/dev/)
 
+# 5. iNLTK
+iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages. Paper for iNLTK library has been accepted at EMNLP-2020's NLP-OSS workshop.
+[Reference](https://inltk.readthedocs.io/)
+[Github](https://github.com/goru001/inltk)
+
 # Why is NLP hard? 
 [Reference](https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/)
 
