@@ -9,6 +9,7 @@ Natural Language Processing S21, CMU, http://demo.clab.cs.cmu.edu/NLP/
 Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit | Steven Bird, Ewan Klein, and Edward Loper
 Awesome NLP: https://github.com/keon/awesome-nlp 
 NLP Resources : https://github.com/datascienceid/nlp-resources 
+HQ Survey deep dive (2021) : Link :  https://gradientflow.com/2021nlpsurvey/ (Paco Nathan)
 
 Good Datasets
 amazon-reviews polarity dataset https://www.kaggle.com/kritanjalijain/amazon-reviews
@@ -29,6 +30,10 @@ A Complete Sentiment Analysis Algorithm in Python with Amazon Product Review Dat
 An NLP Project Using Python’s Scikit_learn library | https://towardsdatascience.com/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b
 Text Analysis on the reviews data of Indian products in Amazon | https://medium.com/analytics-vidhya/text-analysis-on-the-reviews-data-of-indian-products-in-amazon-a9c21709c4d8
 
+NER Examples
+displaCy Named Entity Visualizer : https://explosion.ai/demos/displacy-ent
+NER Example : https://github.com/drshyamsundaram/nlp/tree/main/ner_example_JohnHenslow
+mchesterkadwell : Other examples : https://github.com/mchesterkadwell/named-entity-recognition 
 
 Deep NLP Articles
 Learning POS Tagging & Chunking in NLP : https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb 
