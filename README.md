@@ -71,6 +71,16 @@ iNLTK aims to provide out of the box support for various NLP tasks that an appli
 [Reference](https://inltk.readthedocs.io/)
 [Github](https://github.com/goru001/inltk)
 
+# 6. Stanford NLP
+The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural language processing tools on 60+ languages and for accessing the Java Stanford CoreNLP software from Python. For detailed information please visit our official website.
+[Reference](https://stanfordnlp.github.io/stanza/)
+[Github](https://github.com/stanfordnlp/stanza/)
+
+# 7. SPARK NLP
+Spark NLP is the only open-source NLP library in production that offers state-of-the-art transformers such as BERT, ALBERT, ELECTRA, XLNet, DistilBERT, RoBERTa, XLM-RoBERTa, Longformer, ELMO, Universal Sentence Encoder, Google T5, and MarianMT not only to Python and R, but also to JVM ecosystem (Java, Scala, and Kotlin) at scale by extending Apache Spark natively.
+[Reference](https://nlp.johnsnowlabs.com/)
+[Github](https://github.com/johnsnowlabs/spark-nlp)
+
 # Why is NLP hard? 
 [Reference](https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/)
 
