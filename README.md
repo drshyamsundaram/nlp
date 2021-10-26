@@ -81,7 +81,19 @@ Spark NLP is the only open-source NLP library in production that offers state-of
 [Reference](https://nlp.johnsnowlabs.com/)
 [Github](https://github.com/johnsnowlabs/spark-nlp)
 
+# 8. BERT (Bidirectional Encoder Representations from Transformers)
+BERT (Bidirectional Encoder Representations from Transformers) is a recent paper published by researchers at Google AI Language. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks, including Question Answering (SQuAD v1.1), Natural Language Inference (MNLI), and others.
+[Reference](https://arxiv.org/pdf/1810.04805.pdf)
+[Reference](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+
+# Pre-trained Models
+Hugging Face [Reference](https://huggingface.co/)
+JohnSnowlabs NLP Models Repo [Reference](https://nlp.johnsnowlabs.com/models)
+OpenAI GPT3 [Reference](https://openai.com/blog/openai-api/)
+
 # Why is NLP hard? 
+NLP is hard because natural languages evolved without a standard rule/logic. They were developed in response to the evolution of the human brain: in its ability to understand signs, voice, and memory. With NLP, we are now trying to “discover rules” for something (language) that evolved without rules.
+
 [Reference](https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/)
 
 NLP is hard because natural languages evolved without a standard rule/logic. They were developed in response to the evolution of the human brain: in its ability to understand signs, voice, and memory. With NLP, we are now trying to “discover rules” for something (language) that evolved without rules.
