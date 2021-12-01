@@ -158,3 +158,24 @@ Named-entity recognition is a subtask of information extraction that seeks to lo
 
 Refers to locating and identifying key entities (e.g., company names, product names, location names) within text. NER is an important component of many language applications and is usually the first step in information extraction projects.
 [Reference](https://gradientflow.com/2021nlpsurvey/) 2021 NLP Survey Report By Ben Lorica and Paco Nathan
+
+
+# What is Named Entity Recognition (NER) 
+The Corpus of Linguistic Acceptability (CoLA) in its full form consists of 10657 sentences from 23 linguistics publications, expertly annotated for acceptability (grammaticality) by their original authors. The public version provided here contains 9594 sentences belonging to training and development sets, and excludes 1063 sentences belonging to a held out test set. Contact alexwarstadt [at] gmail [dot] com with any questions or issues. Read the paper or check out the source code for baselines. [Reference](https://nyu-mll.github.io/CoLA/) [Reference](https://arxiv.org/abs/1805.12471)
+
+# Transformers ([Reference](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
+A transformer is a deep learning model that adopts the mechanism of self-attention, differentially weighting the significance of each part of the input data. It is used primarily in the field of natural language processing (NLP) and in computer vision (CV).
+
+Like recurrent neural networks (RNNs), transformers are designed to handle sequential input data, such as natural language, for tasks such as translation and text summarization. However, unlike RNNs, transformers do not necessarily process the data in order. Rather, the attention mechanism provides context for any position in the input sequence. For example, if the input data is a natural language sentence, the transformer does not need to process the beginning of the sentence before the end. Rather, it identifies the context that confers meaning to each word in the sentence. This feature allows for more parallelization than RNNs and therefore reduces training times.
+
+Since their debut in 2017, transformers are increasingly the model of choice for NLP problems, replacing RNN models such as long short-term memory (LSTM). The additional training parallelization allows training on larger datasets than was once possible. This led to the development of pretrained systems such as BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer), which were trained with large language datasets, such as the Wikipedia Corpus and Common Crawl, and can be fine-tuned for specific tasks.
+
+# BERT [Reference](https://en.wikipedia.org/wiki/BERT_(language_model))
+Bidirectional Encoder Representations from Transformers (BERT) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. BERT was created and published in 2018 by Jacob Devlin and his colleagues from Google. In 2019, Google announced that it had begun leveraging BERT in its search engine, and by late 2020 it was using BERT in almost every English-language query. A 2020 literature survey concluded that "in a little over a year, BERT has become a ubiquitous baseline in NLP experiments", counting over 150 research publications analyzing and improving the model.
+
+The original English-language BERT has two models: (1) the BERTBASE: 12 Encoders with 12 bidirectional self-attention heads, and (2) the BERTLARGE: 24 Encoders with 16 bidirectional self-attention heads. Both models are pre-trained from unlabeled data extracted from the BooksCorpus with 800M words and English Wikipedia with 2,500M words.
+
+## A Primer in BERTology: What we know about how BERT works| Rogers, Anna; Kovaleva, Olga; Rumshisky, Anna (2020) [Reference](https://arxiv.org/abs/2002.12327)
+
+## BERT for dummies — Step by Step Tutorial
+DIY Practical guide on Transformer. Hands-on proven PyTorch code for Intent Classification in NLU with BERT fine-tuned. [Reference](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)
